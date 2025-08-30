@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pradeepdebnath/)
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-1abc9c?style=flat&logo=vercel&logoColor=white)](https://pradeep-folio.netlify.app)
 
