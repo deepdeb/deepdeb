@@ -1,9 +1,9 @@
 # Hi, I'm Pradeep 👋
 
 ## 🚀 About Me
-- 💻 Fullstack Developer | MERN + SQL
-- 📘 Learning DSA & Algorithm
-- 🎯 Fun Fact: I love Football ⚽
+- 💻 Full-Stack Developer | MERN + SQL
+- 🧩 Leveling up in Data Structures and Algorithms
+- ⚽ Off the keyboard: Football enthusiast
 
 ---
 
