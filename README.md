@@ -43,6 +43,6 @@ If you like my work and want to collaborate or hire me for freelance projects, f
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepdeb&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepdeb&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.demolab.com/?user=deepdeb&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepdeb&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
